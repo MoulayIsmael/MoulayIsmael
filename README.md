@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ismael Sefiane
 
-<!--
-**MoulayIsmael/MoulayIsmael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a Master in Management at HEC Paris, having previously studied Mathematics and Finance at McGill University.
 
-Here are some ideas to get you started:
+My background spans infrastructure investing, M&A, and strategy, with experience at CDPQ, Canadian National Railway, and Strategy&.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in quantitative research, machine learning, and the intersection of financial markets and macroeconomics.
+
+I'm currently developing my programming and statistical modelling skills through independent research projects focused on financial and economic problems.
+
+### Research Interests
+
+- Quantitative Finance & Global Macro
+- Machine Learning & Predictive Analytics
+- Statistical Modelling & Optimisation
+- Emerging Markets & Economic Risk
+
+### Projects
+
+Research projects and technical documentation will be added as they are developed.
